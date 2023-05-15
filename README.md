@@ -9,10 +9,8 @@ The main framework used in building the TinDog website is Bootstrap and its comp
 
 Screenshots
 ![first-section](https://github.com/Gaurav-Void/Tindog/assets/114498597/52daa10c-2ad6-456f-a0e0-773a833a050a)
-
-
-
-
+![Carousel](https://github.com/Gaurav-Void/Tindog/assets/114498597/4f5313ae-b70e-4aef-ab82-7966358a656b)
+![Card](https://github.com/Gaurav-Void/Tindog/assets/114498597/b4449ee2-6317-4789-a89e-c5c5184e1afb)
 
 
 # Tindog
